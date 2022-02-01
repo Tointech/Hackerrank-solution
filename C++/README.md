@@ -2,7 +2,7 @@
 
 ### Table of contents
 
-**1. Introduction**
+**[1. Introduction](https://github.com/Tointech/Hackerrank-solutions/tree/master/C%2B%2B/Introduction)**
 
 **2. Strings**
 
