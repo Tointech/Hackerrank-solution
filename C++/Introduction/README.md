@@ -25,5 +25,5 @@
   * [Problem](https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true)
   * [Solution](https://github.com/Tointech/Hackerrank-solutions/tree/master/C%2B%2B/Introduction/Arrays%20Introduction)
 * Variable Sized Arrays
-  * [Problem]
-  * [Solution]
+  * [Problem]()
+  * [Solution]()
