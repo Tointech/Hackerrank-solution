@@ -4,4 +4,6 @@
 
 ## [2. Python](https://github.com/Tointech/Hackerrank-solutions/tree/master/Python)
 
-## [3. Algorithms](https://github.com/Tointech/Hackerrank-solutions/tree/master/Algorithms)
+## 3. Problem Solving
+### [3.1 Algorithms](https://github.com/Tointech/Hackerrank-solutions/tree/master/Algorithms)
+### [3.2 Data Structures]()
